@@ -10,6 +10,7 @@
     <Compile Remove="Program.cs" />
     <Compile Remove="RandomClassDemo.cs" />
     <Compile Remove="RandomDemo.cs" />
+    <Compile Remove="RegexReplace.cs" />
     <Compile Remove="RockPaperScissors.cs" />
     <Compile Remove="StopwatchDemo.cs" />
   </ItemGroup>
