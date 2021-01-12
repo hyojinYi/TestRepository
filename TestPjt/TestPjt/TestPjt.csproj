@@ -6,7 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ProcessStartDemo.cs" />
     <Compile Remove="Program.cs" />
+    <Compile Remove="RandomDemo.cs" />
   </ItemGroup>
 
 </Project>
