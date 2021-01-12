@@ -11,6 +11,7 @@
     <Compile Remove="RandomClassDemo.cs" />
     <Compile Remove="RandomDemo.cs" />
     <Compile Remove="RockPaperScissors.cs" />
+    <Compile Remove="StopwatchDemo.cs" />
   </ItemGroup>
 
 </Project>
