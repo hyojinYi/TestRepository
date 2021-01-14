@@ -12,6 +12,8 @@ namespace TestPjt
             {
                 Console.Write($"{n}\t");
             }
+
+
             Console.WriteLine();
 
             var sameNumbers = Enumerable.Repeat(-1, 5);

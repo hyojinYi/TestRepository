@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="EnumerableDemo.cs" />
     <Compile Remove="ExceptionHandling.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
     <Compile Remove="ProcessStartDemo.cs" />
