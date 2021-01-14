@@ -17,6 +17,7 @@
     <Compile Remove="RegexDemo.cs" />
     <Compile Remove="RegexReplace.cs" />
     <Compile Remove="RockPaperScissors.cs" />
+    <Compile Remove="StackNote.cs" />
     <Compile Remove="StopwatchDemo.cs" />
     <Compile Remove="StringBuilderPerformance.cs" />
     <Compile Remove="StringPerfomance.cs" />
