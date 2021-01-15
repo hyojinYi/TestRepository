@@ -20,6 +20,7 @@
     <Compile Remove="LinqWhereMethod.cs" />
     <Compile Remove="Map.cs" />
     <Compile Remove="MaxAlforithm.cs" />
+    <Compile Remove="MergeAlgorithm.cs" />
     <Compile Remove="MinAlgorithm.cs" />
     <Compile Remove="NearAlgorithm.cs" />
     <Compile Remove="NearAll.cs" />
