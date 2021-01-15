@@ -12,6 +12,7 @@
     <Compile Remove="EnumerableDemo.cs" />
     <Compile Remove="ExceptionHandling.cs" />
     <Compile Remove="Filtercs.cs" />
+    <Compile Remove="FromWhereSelect.cs" />
     <Compile Remove="Linq.cs" />
     <Compile Remove="LinqWhereMethod.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
