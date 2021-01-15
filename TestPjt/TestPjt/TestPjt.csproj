@@ -8,6 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="CountFunccs.cs" />
     <Compile Remove="EnumerableDemo.cs" />
     <Compile Remove="ExceptionHandling.cs" />
     <Compile Remove="Filtercs.cs" />
