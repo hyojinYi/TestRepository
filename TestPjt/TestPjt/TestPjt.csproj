@@ -15,6 +15,7 @@
     <Compile Remove="ExceptionHandling.cs" />
     <Compile Remove="Filtercs.cs" />
     <Compile Remove="FromWhereSelect.cs" />
+    <Compile Remove="GroupAlgorithm.cs" />
     <Compile Remove="Linq.cs" />
     <Compile Remove="LinqQuerySyntax.cs" />
     <Compile Remove="LinqWhereMethod.cs" />
@@ -22,6 +23,7 @@
     <Compile Remove="MaxAlforithm.cs" />
     <Compile Remove="MergeAlgorithm.cs" />
     <Compile Remove="MinAlgorithm.cs" />
+    <Compile Remove="ModeAlgorithm.cs" />
     <Compile Remove="NearAlgorithm.cs" />
     <Compile Remove="NearAll.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
