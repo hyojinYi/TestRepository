@@ -16,6 +16,7 @@
     <Compile Remove="Linq.cs" />
     <Compile Remove="LinqQuerySyntax.cs" />
     <Compile Remove="LinqWhereMethod.cs" />
+    <Compile Remove="Map.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
     <Compile Remove="ProcessStartDemo.cs" />
     <Compile Remove="Program.cs" />
