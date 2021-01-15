@@ -21,6 +21,7 @@
     <Compile Remove="Map.cs" />
     <Compile Remove="MaxAlforithm.cs" />
     <Compile Remove="MinAlgorithm.cs" />
+    <Compile Remove="NearAlgorithm.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
     <Compile Remove="ProcessStartDemo.cs" />
     <Compile Remove="Program.cs" />
