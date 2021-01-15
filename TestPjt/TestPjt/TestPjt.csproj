@@ -29,6 +29,7 @@
     <Compile Remove="StopwatchDemo.cs" />
     <Compile Remove="StringBuilderPerformance.cs" />
     <Compile Remove="StringPerfomance.cs" />
+    <Compile Remove="SumAlgorithm.cs" />
     <Compile Remove="TryCatchFinallyDemo1.cs" />
     <Compile Remove="TryCatchFinallyDemo2.cs" />
     <Compile Remove="TryCatchFinallyDemo3.cs" />
