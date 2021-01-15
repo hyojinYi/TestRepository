@@ -20,6 +20,7 @@
     <Compile Remove="LinqWhereMethod.cs" />
     <Compile Remove="Map.cs" />
     <Compile Remove="MaxAlforithm.cs" />
+    <Compile Remove="MinAlgorithm.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
     <Compile Remove="ProcessStartDemo.cs" />
     <Compile Remove="Program.cs" />
