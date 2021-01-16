@@ -13,6 +13,7 @@
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
     <Compile Remove="ToStringMethod.cs" />
+    <Compile Remove="TypeDefinitionWithUsing.cs" />
   </ItemGroup>
 
 </Project>
