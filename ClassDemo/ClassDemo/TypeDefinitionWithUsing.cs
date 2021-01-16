@@ -23,7 +23,7 @@ namespace Gilbut
         {
             public class Lecture
             {
-                public override string ToString()20
+                public override string ToString()
                 {
                     return "Lecture 클래스 호출됨";
                 }
