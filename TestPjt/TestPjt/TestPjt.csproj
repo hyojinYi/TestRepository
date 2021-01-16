@@ -26,6 +26,7 @@
     <Compile Remove="ModeAlgorithm.cs" />
     <Compile Remove="NearAlgorithm.cs" />
     <Compile Remove="NearAll.cs" />
+    <Compile Remove="objectNote.cs" />
     <Compile Remove="PatternMatchingWithIf.cs" />
     <Compile Remove="ProcessStartDemo.cs" />
     <Compile Remove="Program.cs" />
