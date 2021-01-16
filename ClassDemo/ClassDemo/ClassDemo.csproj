@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ClassArray.cs" />
+    <Compile Remove="ClassDemo.cs" />
+    <Compile Remove="ClassOne.cs" />
+    <Compile Remove="ClassTwo.cs" />
+    <Compile Remove="NamespaceDescription.cs" />
+    <Compile Remove="NamespaceNote.cs" />
+    <Compile Remove="ToStringMethod.cs" />
+  </ItemGroup>
+
+</Project>
