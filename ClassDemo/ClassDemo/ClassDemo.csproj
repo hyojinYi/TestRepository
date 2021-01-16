@@ -10,6 +10,7 @@
     <Compile Remove="ClassDemo.cs" />
     <Compile Remove="ClassOne.cs" />
     <Compile Remove="ClassTwo.cs" />
+    <Compile Remove="fieldInitializer.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
     <Compile Remove="ToStringMethod.cs" />
