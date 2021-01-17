@@ -28,6 +28,7 @@
     <Compile Remove="ParameterOut.cs" />
     <Compile Remove="ParameterRef.cs" />
     <Compile Remove="ParamsDemo.cs" />
+    <Compile Remove="PetDemo.cs" />
     <Compile Remove="PropertyNote.Car.cs" />
     <Compile Remove="PropertyNote.Person.cs" />
     <Compile Remove="PropertyNote.PropertyNote.cs" />
