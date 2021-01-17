@@ -25,6 +25,8 @@
     <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
+    <Compile Remove="NickName.cs" />
+    <Compile Remove="NickNameDemo.cs" />
     <Compile Remove="NullWithObject.cs" />
     <Compile Remove="ParameterOut.cs" />
     <Compile Remove="ParameterRef.cs" />
