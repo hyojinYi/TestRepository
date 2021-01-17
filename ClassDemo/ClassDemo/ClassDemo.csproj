@@ -10,6 +10,7 @@
     <Compile Remove="ClassDemo.cs" />
     <Compile Remove="ClassOne.cs" />
     <Compile Remove="ClassTwo.cs" />
+    <Compile Remove="ConstructorAll.cs" />
     <Compile Remove="ConstructorDemo.cs" />
     <Compile Remove="ConstrucTorMethod.cs" />
     <Compile Remove="ConstructorParameter.cs" />
