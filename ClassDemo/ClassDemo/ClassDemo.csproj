@@ -11,6 +11,8 @@
     <Compile Remove="ClassOne.cs" />
     <Compile Remove="ClassTwo.cs" />
     <Compile Remove="ConstructorDemo.cs" />
+    <Compile Remove="ConstrucTorMethod.cs" />
+    <Compile Remove="ConstructorParameter.cs" />
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
     <Compile Remove="FieldNote.cs" />
