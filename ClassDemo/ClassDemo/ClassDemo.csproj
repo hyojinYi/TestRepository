@@ -24,6 +24,7 @@
     <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
+    <Compile Remove="ParameterRef.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
   </ItemGroup>
