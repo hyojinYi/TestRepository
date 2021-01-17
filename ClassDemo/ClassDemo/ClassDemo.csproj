@@ -17,6 +17,7 @@
     <Compile Remove="ConstructorParameter.cs" />
     <Compile Remove="ConstructorToDestructor.cs" />
     <Compile Remove="ConstuctorOverload.cs" />
+    <Compile Remove="DateTimeTryParse.cs" />
     <Compile Remove="DestructorDemo.cs" />
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
@@ -24,7 +25,13 @@
     <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
+    <Compile Remove="ParameterOut.cs" />
     <Compile Remove="ParameterRef.cs" />
+    <Compile Remove="ParamsDemo.cs" />
+    <Compile Remove="PropertyNote.Car.cs" />
+    <Compile Remove="PropertyNote.Person.cs" />
+    <Compile Remove="PropertyNote.PropertyNote.cs" />
+    <Compile Remove="PropertyValidation.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
   </ItemGroup>
