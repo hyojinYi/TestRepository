@@ -13,8 +13,11 @@
     <Compile Remove="ConstructorAll.cs" />
     <Compile Remove="ConstructorDemo.cs" />
     <Compile Remove="ConstrucTorMethod.cs" />
+    <Compile Remove="ConstructorMethodDestructor.cs" />
     <Compile Remove="ConstructorParameter.cs" />
+    <Compile Remove="ConstructorToDestructor.cs" />
     <Compile Remove="ConstuctorOverload.cs" />
+    <Compile Remove="DestructorDemo.cs" />
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
     <Compile Remove="FieldNote.cs" />
