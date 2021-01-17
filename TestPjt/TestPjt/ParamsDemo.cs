@@ -19,6 +19,6 @@ namespace ClassDemo
                 sum += num;
             }
             return sum;
-        }
+        }1 7
     }
 }
