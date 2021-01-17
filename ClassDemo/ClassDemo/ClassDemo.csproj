@@ -10,9 +10,23 @@
     <Compile Remove="ClassDemo.cs" />
     <Compile Remove="ClassOne.cs" />
     <Compile Remove="ClassTwo.cs" />
+    <Compile Remove="ConstructorAll.cs" />
+    <Compile Remove="ConstructorDemo.cs" />
+    <Compile Remove="ConstrucTorMethod.cs" />
+    <Compile Remove="ConstructorMethodDestructor.cs" />
+    <Compile Remove="ConstructorParameter.cs" />
+    <Compile Remove="ConstructorToDestructor.cs" />
+    <Compile Remove="ConstuctorOverload.cs" />
+    <Compile Remove="DestructorDemo.cs" />
+    <Compile Remove="fieldArray.cs" />
+    <Compile Remove="fieldInitializer.cs" />
+    <Compile Remove="FieldNote.cs" />
+    <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
+    <Compile Remove="ParameterRef.cs" />
     <Compile Remove="ToStringMethod.cs" />
+    <Compile Remove="TypeDefinitionWithUsing.cs" />
   </ItemGroup>
 
 </Project>
