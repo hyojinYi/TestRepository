@@ -27,6 +27,7 @@
     <Compile Remove="NamespaceNote.cs" />
     <Compile Remove="ParameterOut.cs" />
     <Compile Remove="ParameterRef.cs" />
+    <Compile Remove="ParamsDemo.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
   </ItemGroup>
