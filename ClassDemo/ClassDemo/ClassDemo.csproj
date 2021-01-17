@@ -38,6 +38,7 @@
     <Compile Remove="PropertyValidation.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
+    <Compile Remove="yieldReturn.cs" />
   </ItemGroup>
 
 </Project>
