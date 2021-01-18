@@ -18,6 +18,7 @@
     <Compile Remove="ConstructorToDestructor.cs" />
     <Compile Remove="ConstuctorOverload.cs" />
     <Compile Remove="DateTimeTryParse.cs" />
+    <Compile Remove="DelegateNote.cs" />
     <Compile Remove="DestructorDemo.cs" />
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
@@ -38,6 +39,7 @@
     <Compile Remove="PropertyValidation.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
+    <Compile Remove="YieldDemo.cs" />
     <Compile Remove="yieldReturn.cs" />
   </ItemGroup>
 
