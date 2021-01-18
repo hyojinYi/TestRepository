@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="AnonymousMethod.cs" />
     <Compile Remove="ClassArray.cs" />
     <Compile Remove="ClassDemo.cs" />
     <Compile Remove="ClassOne.cs" />
