@@ -19,6 +19,7 @@
     <Compile Remove="ConstuctorOverload.cs" />
     <Compile Remove="DateTimeTryParse.cs" />
     <Compile Remove="DelegateNote.cs" />
+    <Compile Remove="DelegatePractice.cs" />
     <Compile Remove="DestructorDemo.cs" />
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
