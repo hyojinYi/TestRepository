@@ -26,6 +26,7 @@
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
     <Compile Remove="FieldNote.cs" />
+    <Compile Remove="FuncDelegate.cs" />
     <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
