@@ -13,6 +13,7 @@
     <Compile Remove="ClassTwo.cs" />
     <Compile Remove="ConstructorAll.cs" />
     <Compile Remove="ConstructorDemo.cs" />
+    <Compile Remove="ConstructorInheritance.cs" />
     <Compile Remove="ConstrucTorMethod.cs" />
     <Compile Remove="ConstructorMethodDestructor.cs" />
     <Compile Remove="ConstructorParameter.cs" />
