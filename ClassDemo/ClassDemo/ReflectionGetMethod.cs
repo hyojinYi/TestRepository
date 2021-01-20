@@ -23,6 +23,8 @@ namespace ReflectionGetMethod
             Console.WriteLine($"속성 호출 : {pi.GetValue(m)}");
 
             MethodInfo mi = t.GetMethod("GetName");
+
+
             Console.WriteLine($"메서드 호출 : {mi.Invoke(m, null)}");
 
             dynamic d = new MemberClass();
