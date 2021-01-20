@@ -28,6 +28,7 @@
     <Compile Remove="FieldNote.cs" />
     <Compile Remove="FuncDelegate.cs" />
     <Compile Remove="InheritanceDemo.cs" />
+    <Compile Remove="IsAn.cs" />
     <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
