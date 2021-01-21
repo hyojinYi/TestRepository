@@ -28,6 +28,7 @@
     <Compile Remove="DelegatePractice.cs" />
     <Compile Remove="DestructorDemo.cs" />
     <Compile Remove="ExtensionFunction.cs" />
+    <Compile Remove="ExtensionMethodDemo.cs" />
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
     <Compile Remove="FieldNote.cs" />
