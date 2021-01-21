@@ -9,6 +9,7 @@
     <Compile Remove="AnonymousMethod.cs" />
     <Compile Remove="AttributePractice.cs" />
     <Compile Remove="CallerInformation.cs" />
+    <Compile Remove="CarWorld.cs" />
     <Compile Remove="ClassArray.cs" />
     <Compile Remove="ClassDemo.cs" />
     <Compile Remove="ClassOne.cs" />
