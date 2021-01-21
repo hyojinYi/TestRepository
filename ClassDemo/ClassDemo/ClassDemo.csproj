@@ -49,6 +49,7 @@
     <Compile Remove="PropertyNote.PropertyNote.cs" />
     <Compile Remove="PropertyValidation.cs" />
     <Compile Remove="ReflectionGetMembers.cs" />
+    <Compile Remove="ReflectionGetMethod.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
     <Compile Remove="YieldDemo.cs" />
