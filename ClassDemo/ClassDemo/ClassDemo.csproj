@@ -27,6 +27,7 @@
     <Compile Remove="DelegateParameter.cs" />
     <Compile Remove="DelegatePractice.cs" />
     <Compile Remove="DestructorDemo.cs" />
+    <Compile Remove="DynamicExtensionMethod.cs" />
     <Compile Remove="ExtensionFunction.cs" />
     <Compile Remove="ExtensionMethodDemo.cs" />
     <Compile Remove="ExtesionMethodNote.cs" />
