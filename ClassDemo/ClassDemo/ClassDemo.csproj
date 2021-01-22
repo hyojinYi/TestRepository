@@ -65,8 +65,4 @@
     <Compile Remove="yieldReturn.cs" />
   </ItemGroup>
 
-  <ItemGroup>
-    <None Include="LocalFunctionDescription.cs" />
-  </ItemGroup>
-
 </Project>
