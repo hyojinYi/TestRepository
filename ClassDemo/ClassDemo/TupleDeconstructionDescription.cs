@@ -13,7 +13,7 @@ namespace ClassDemo
         {
             var r = (s: 12, c: 3);
             Console.WriteLine($"{r.s}, {r.c}");
-            return r;
+
         }
     }
 }

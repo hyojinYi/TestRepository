@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
   </PropertyGroup>
 
   <ItemGroup>
@@ -37,6 +39,7 @@
     <Compile Remove="FuncDelegate.cs" />
     <Compile Remove="InheritanceDemo.cs" />
     <Compile Remove="IsAn.cs" />
+    <Compile Remove="LocalFunctionDescription.cs" />
     <Compile Remove="MethodPrivate.cs" />
     <Compile Remove="NamespaceDescription.cs" />
     <Compile Remove="NamespaceNote.cs" />
@@ -56,9 +59,14 @@
     <Compile Remove="ReflectionGetMembers.cs" />
     <Compile Remove="ReflectionGetMethod.cs" />
     <Compile Remove="ToStringMethod.cs" />
+    <Compile Remove="TupleDeconstructionDescription.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
     <Compile Remove="YieldDemo.cs" />
     <Compile Remove="yieldReturn.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="LocalFunctionDescription.cs" />
   </ItemGroup>
 
 </Project>
