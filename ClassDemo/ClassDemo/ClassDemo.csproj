@@ -59,6 +59,7 @@
     <Compile Remove="ReflectionGetMembers.cs" />
     <Compile Remove="ReflectionGetMethod.cs" />
     <Compile Remove="ThreadDemo.cs" />
+    <Compile Remove="ThreadPractice.cs" />
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TupleDeconstructionDescription.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
