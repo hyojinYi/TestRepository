@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Compile Remove="AnonymousMethod.cs" />
+    <Compile Remove="AsyncAwaitSimple.cs" />
     <Compile Remove="AttributePractice.cs" />
     <Compile Remove="CallerInformation.cs" />
     <Compile Remove="CarWorld.cs" />
