@@ -65,6 +65,7 @@
     <Compile Remove="ToStringMethod.cs" />
     <Compile Remove="TupleDeconstructionDescription.cs" />
     <Compile Remove="TypeDefinitionWithUsing.cs" />
+    <Compile Remove="WeatherForecastApp.cs" />
     <Compile Remove="YieldDemo.cs" />
     <Compile Remove="yieldReturn.cs" />
   </ItemGroup>
