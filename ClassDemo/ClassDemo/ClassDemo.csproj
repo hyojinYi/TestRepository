@@ -37,6 +37,7 @@
     <Compile Remove="fieldArray.cs" />
     <Compile Remove="fieldInitializer.cs" />
     <Compile Remove="FieldNote.cs" />
+    <Compile Remove="FileAndFileInfo.cs" />
     <Compile Remove="FuncDelegate.cs" />
     <Compile Remove="InheritanceDemo.cs" />
     <Compile Remove="IsAn.cs" />
