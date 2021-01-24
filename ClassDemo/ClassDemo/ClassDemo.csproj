@@ -39,6 +39,7 @@
     <Compile Remove="FieldNote.cs" />
     <Compile Remove="FileAndFileInfo.cs" />
     <Compile Remove="FuncDelegate.cs" />
+    <Compile Remove="HttpClientDemo.cs" />
     <Compile Remove="InheritanceDemo.cs" />
     <Compile Remove="IsAn.cs" />
     <Compile Remove="LocalFunctionDescription.cs" />
