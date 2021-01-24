@@ -59,6 +59,7 @@
     <Compile Remove="PropertyValidation.cs" />
     <Compile Remove="ReflectionGetMembers.cs" />
     <Compile Remove="ReflectionGetMethod.cs" />
+    <Compile Remove="SignBaseSignRepository.cs" />
     <Compile Remove="SyncDemo.cs" />
     <Compile Remove="ThreadDemo.cs" />
     <Compile Remove="ThreadPractice.cs" />
