@@ -65,6 +65,7 @@
     <Compile Remove="StreamReaderReadToEndDemo.cs" />
     <Compile Remove="StreamWriterWriteLineDemo.cs" />
     <Compile Remove="SyncDemo.cs" />
+    <Compile Remove="TextToCollection.cs" />
     <Compile Remove="ThreadDemo.cs" />
     <Compile Remove="ThreadPractice.cs" />
     <Compile Remove="ToStringMethod.cs" />
